@@ -1,0 +1,41 @@
+/* Footer styles and social icons */
+.footer {
+  background: #1a2236;
+  color: #fff;
+  padding: 2rem 1rem 1rem 1rem;
+  text-align: center;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  box-shadow: 0 -2px 8px rgba(0,0,0,0.04);
+}
+.footer-socials {
+  margin-bottom: 1rem;
+}
+.footer-socials a {
+  color: #fff;
+  margin: 0 0.5rem;
+  font-size: 1.6rem;
+  display: inline-block;
+  transition: color 0.2s;
+}
+.footer-socials a:hover {
+  color: #00bfae;
+}
+.footer-links {
+  margin-bottom: 0.5rem;
+}
+.footer-btn {
+  color: #fff;
+  margin: 0 0.7rem;
+  font-size: 1rem;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+.footer-btn:hover {
+  color: #00bfae;
+}
+.footer-copy {
+  font-size: 0.95rem;
+  opacity: 0.7;
+}
