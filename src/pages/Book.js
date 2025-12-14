@@ -7,7 +7,7 @@ function Book() {
       <p>
         Ready to connect with a professional interpreter? Click the button below to book your session via our Google Form.
       </p>
-      <a className="book-btn" href="https://forms.gle/your-google-form" target="_blank" rel="noopener noreferrer">
+      <a className="book-btn" href="https://forms.gle/4CXA9LTY6nAPhxjE8" target="_blank" rel="noopener noreferrer">
         Book Now
       </a>
     </section>
